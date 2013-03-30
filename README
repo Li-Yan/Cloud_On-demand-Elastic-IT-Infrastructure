@@ -1,0 +1,1 @@
+Basic Amazon EC2 operation on instance, EBS, AMI. Support elastic maintenance that back instance and terminate it when low CPU usage, while create new instance when high CPU usage.
